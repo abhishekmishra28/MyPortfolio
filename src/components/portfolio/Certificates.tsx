@@ -39,14 +39,14 @@ const Certificates = () => {
       link: "https://internalapp.nptel.ac.in/NOC/NOC25/SEM1/Ecertificates/106/noc25-cs11/Course/NPTEL25CS11S143730195604239718.pdf",
     },
     {
-      title: "Responsive Web Design",
-      issuer: "freeCodeCamp",
-      date: "Nov 2023",
-      credentialId: "", // 🔧 Optional: Add if available on freeCodeCamp dashboard
-      description: "Mastered responsive HTML and CSS for modern web design.",
-      skills: ["HTML", "CSS", "Responsive Design"],
+      title: "Data Science Professional",
+      issuer: "Oracle",
+      date: "Aug 2025",
+      credentialId: "102326143OCI25DSOCP",
+      description: "Oracle Cloud Infrastructure 2025 Certified Data Science Professional",
+      skills: ["Machine Learning", "Data Science", "Oracle Application"],
       verified: true,
-      link: "https://www.freecodecamp.org/certification/abheeshakespere/responsive-web-design",
+      link: "https://catalog-education.oracle.com/ords/certview/sharebadge?id=99BCDB69412186A355A64DCA8E1B7A8406D379CACE9DC69365200EFD2395ED7A",
     },
     {
       title: "Computer Communications",
