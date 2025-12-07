@@ -7,6 +7,8 @@ import Certificates from "@/components/portfolio/Certificates";
 import Contact from "@/components/portfolio/Contact";
 import Navigation from "@/components/portfolio/Navigation";
 import ScrollProgress from "@/components/portfolio/ScrollProgress";
+import LeetCodeStats from "@/components/portfolio/LeetCodeStats";
+
 
 const Index = () => {
   useEffect(() => {
@@ -30,6 +32,10 @@ const Index = () => {
         
         <section id="skills">
           <Skills />
+        </section>
+
+        <section id="leetcode">
+          <LeetCodeStats />
         </section>
         
         <section id="projects">
