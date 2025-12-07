@@ -73,13 +73,13 @@ const About = () => {
                 <span className="ml-8 text-syntax-string">"Full Stack Development"</span>
                 <span className="text-foreground">,</span>
                 <br />
-                <span className="ml-8 text-syntax-string">"React & Next.js"</span>
+                <span className="ml-8 text-syntax-string">"Machine Learning"</span>
                 <span className="text-foreground">,</span>
                 <br />
                 <span className="ml-8 text-syntax-string">"Problem Solving"</span>
                 <span className="text-foreground">,</span>
                 <br />
-                <span className="ml-8 text-syntax-string">"Database Design"</span>
+                <span className="ml-8 text-syntax-string">"Data Science"</span>
                 <br />
                 <span className="ml-4 text-foreground">],</span>
                 <br />
@@ -127,14 +127,16 @@ const About = () => {
             transition={{ duration: 0.8, delay: 0.6 }}
           >
             <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-              My journey into web development began with curiosity and a desire to bring ideas to life through code. 
-              What started as tinkering with HTML and CSS has evolved into a passion for creating full-stack applications 
-              that solve real-world problems.
+              My journey into technology began with curiosity and a desire to turn ideas into impactful digital solutions. 
+              What started with building simple web pages using HTML and CSS grew into a deep passion for full-stack 
+              development with the MERN stack and exploring the world of Machine Learning to solve real-world problems.
             </p>
+
             <p className="text-lg text-muted-foreground leading-relaxed">
-              I believe in writing code that's not just functional, but elegant and maintainable. 
-              When I'm not coding, you'll find me exploring new technologies, contributing to open source, 
-              or sharing knowledge with the developer community.
+              Whether it's designing scalable web applications or developing intelligent models that learn from data, 
+              I believe in crafting solutions that are both efficient and elegant. When I'm not coding, you’ll find me 
+              experimenting with new frameworks, training ML models, contributing to open source, or sharing knowledge 
+              within the developer community.
             </p>
           </motion.div>
 

@@ -9,6 +9,36 @@ const Certificates = () => {
 
   const certificates = [
     {
+      title: "Oracle Cloud Infrastructure 2025 Certified DevOps Professional",
+      issuer: "Oracle",
+      date: "Sep 2025",
+      credentialId: "102326143OCI25DOPOCP",
+      description: "Demonstrates proficiency in DevOps automation, CI/CD, container orchestration, and deploying cloud-native applications on Oracle Cloud Infrastructure.",
+      skills: ["DevOps","CI/CD","OCI",],
+      verified: true,
+      link: "https://catalog-education.oracle.com/ords/certview/sharebadge?id=99BCDB69412186A355A64DCA8E1B7A8418C718B39D39990A3D22855FC6633A77",
+    },
+    {
+      title: "Oracle Cloud Infrastructure 2025 Certified Generative AI Professional",
+      issuer: "Oracle",
+      date: "Sep 2025",
+      credentialId: "102326143OCI25GAIOCP",
+      description: "Validates expertise in building, deploying, and optimizing Generative AI solutions on Oracle Cloud Infrastructure, including model integration, LLM workflows, and AI-driven application development.",
+      skills: ["Generative AI", "LLM", "Prompt Engineering"],
+      verified: true,
+      link: "https://catalog-education.oracle.com/ords/certview/sharebadge?id=611BAE152B933C1E6F3AE7357556B3235940FE189C206579C03502389BB960FE",
+    },
+    {
+      title: "Oracle Cloud Infrastructure 2025 Certified Data Science Professional",
+      issuer: "Oracle",
+      date: "Aug 2025",
+      credentialId: "102326143OCI25DSOCP",
+      description: "Demonstrates proficiency in building, training, and deploying data science and machine learning models on Oracle Cloud Infrastructure using end-to-end workflows and OCI Data Science tools.",
+      skills: ["Machine Learning", "Data Science", "Model Training & Deployment"],
+      verified: true,
+      link: "https://catalog-education.oracle.com/pls/certview/sharebadge?id=99BCDB69412186A355A64DCA8E1B7A8406D379CACE9DC69365200EFD2395ED7A",
+    },
+    {
       title: "A Guide to Machine Learning with Data Science",
       issuer: "CipherSchools",
       date: "Jul 2025",

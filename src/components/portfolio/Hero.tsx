@@ -10,7 +10,7 @@ const Hero = () => {
   const roles = [
     "Full Stack Developer",
     "React Specialist", 
-    "Node.js Expert",
+    "Machine Learning",
     "Problem Solver"
   ];
 
@@ -211,12 +211,12 @@ const Hero = () => {
             {[
             {
               icon: Github,
-              href: "https://github.com/abheeshakespeare",
+              href: "https://github.com/abhishekmishra28",
               label: "GitHub",
             },
             {
               icon: Linkedin,
-              href: "https://www.linkedin.com/in/abheeshakespeare/",
+              href: "https://www.linkedin.com/in/abhishekmishra028/",
               label: "LinkedIn",
             },
             {

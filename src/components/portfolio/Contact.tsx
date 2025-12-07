@@ -68,13 +68,13 @@ const Contact = () => {
   const socialLinks = [
     { 
       icon: Github, 
-      href: "https://github.com/abheeshakespeare", 
+      href: "https://github.com/abhishekmishra28", 
       label: "GitHub",
       username: "@abheeshakespeare"
     },
     { 
       icon: Linkedin, 
-      href: "https://www.linkedin.com/in/abheeshakespeare/", 
+      href: "https://www.linkedin.com/in/abhishekmishra028/", 
       label: "LinkedIn",
       username: "abheeshakespeare"
     },
